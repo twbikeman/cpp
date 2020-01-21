@@ -1,0 +1,54 @@
+* Technologial Advancements in Health Care
+
+** From robtos to 3D printers, more and more technology is available to those with medical needs
+
+** Aging Japan turns to robots for health care
+
+** In America and other aging societies, it has become common fo the elderly to be cared for by their graying children or order workers. That's largely because the younger labor force is shrinking and few want to do such low-paying back-aching work.
+
+** Japan helps the enfeebled--with robots
+
+** At Minami Tsukuba nursing home near Tokyo, caregiver Asami Konishi wears a robotic device on her hips taht cuts the stress on her backwhen she bends and lifts someone.
+
+** It really helps when I have to pick up a heavier male patient," said the 34-year -old. The lumbar device and other cyborg suits made by Cyberdyne Inc. can help the wearer build strength  and restore mobility, like standing up and walking. Cyberdyne's gear works by reading bioelectric signals form the brain to the muscles, thus mimicking and supporting the movement intended. "It fuses th ehuman and robots and information systems." said Yoshiyuki Sankai, an engineer who founded Cyberdyne in 2004.
+
+*** Japan's lead in advanced robotics for health care is driven by its demographics conundrum. More than most, the nations's population is shrinking and aging rapidly.
+
+** Pay and turnover problems
+
+*** At Mininami Tsukuba, they want to boost the quality of care by lowering the average number of residents per each caregiver, from three to 2.5. But even Konishi, who has seven years of experience, only makes around $20,000 a year for four full days of work a week.
+
+*** Others burn out because caregiving is hard on the body, especially as workers get older. That's where robots could help stem turnover. Equipment such as Cyberdyne's lumbar device could keep workers in their jobs longer and could also make it easier to recruit younger people if the workplace is teeming with robots and has a more high-tech feel to it.
+
+** Here's how doctors are using 3-D printing technology
+
+*** Scampering around the floor of her father's family room, 1-Year-old Syah Weddington is quicker on four limbs than two. AFter a few passes crawling form one end of the room to the other, her mom scoops her up to her lap.
+
+*** The baby's labored breathing is audible.
+
+*** "You hear the panting and you can feel her chest moving rapidly," said her mom, Briana Seimah.
+
+*** Syah moves and chatters like most other babies her age. But beneath her ruffled pink shirt, her heart is different. Scars chronicle two heart surgeries she endured in her first six months.
+
+** 3D-printed model of heart
+
+*** About 1% of babies are born with congenital heart defects. A fraction of those children, like Syah, have severe heart problem. With a kinked aorta, holes in her heart and two right ventricles, the shape of Syah's heart is rare, making surgical reparis complicated. But using 3D-printed models of her heart, doctors at the University of Maryland Medical Center were able to anticipate the anatomical differences they would find when they cut open Syah's chest, increasing the chances for shorter and successful surgery.
+
+*** The University of Maryland Medical CEnter has been adding to its 3D capabilites, modeling body parts to aid in surgical planning, said Dr. Jeffrey Hirsch, the sections chief who printed models of Syah's heart.
+
+
+** Other uses of the technology
+
+Printing a patient's organ starts with two-dimensional images--CT scans often work best--that are plugged into software to create a printable file. Hirsch printed the plastic model of Syah's heart using one of two tabletop printers in his lab.
+
+
+For Syah and her parents, the clearest benefit was simply letting doctors see how her defective heart worked before they cut into her tiny chest. "I think it gave them the clearest idea of what was going on," Seimah said.
+
+
+
+
+
+
+
+
+
