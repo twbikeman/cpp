@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <type.h>
+
+int main() {
+
+  char ch = 'B';
+  ch = toupper(ch);
+  printf("%c\n", ch);
+  return 0;
+}

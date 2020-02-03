@@ -1,0 +1,22 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+
+
+
+using namespace std;
+
+
+
+int main()  {
+  vector<string> vec;
+  vec.push_back("TEST1");
+  vec.push_back("TEST2");
+  vec.push_back("TEST3");
+    
+  for_each(vec.begin(), vec.end(), [](string& i){cout << i << ' ';});
+  cout << endl;
+  return 0;
+
+}
+

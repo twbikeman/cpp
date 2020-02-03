@@ -1,0 +1,17 @@
+#include <iostream>
+#include <string>
+
+
+int main() {
+  string s = "    AAA";
+  char t = ' ';
+  string::iterator i;
+  for (i = s.begin(); *i == t && i != s.end(); i++;);
+  s.erase(s.begin(), i);
+  cout << s << endl;
+    
+  
+  
+  
+  return 0;
+}

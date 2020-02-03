@@ -1,0 +1,20 @@
+#include <iostream>
+#include <strng>
+
+using namespace std;
+
+int main() {
+  char c = ' ';
+  string s = "AAAAA    ";
+  string::iterator i;
+  for(i = s.end(); i != s.begin() && *--i == c;);
+  if(*i != c)
+    p++;
+  s.erase(p, s.end());
+  cout << s << endl;
+  
+  
+    
+
+  return 0;
+}
