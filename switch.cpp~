@@ -1,0 +1,18 @@
+#include <iostream>
+
+
+int main() {
+  int a = 11;
+  
+  switch (a){
+  case 11:
+    print("first\n");
+    break;
+  case 22:
+    print("second\n");
+  default:
+    print("default\n");
+    
+  } 
+  return 0;
+}

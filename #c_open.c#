@@ -1,0 +1,12 @@
+#include <stdlib.h>
+#include <stdio.h>
+
+int main() {
+  char *str = calloc(80, sizeof(char));
+  FILE *fp;
+  size_t size = 80;
+  fp = fopen("perm.cpp", "r");
+  int lineSize = getline(str, &size, fp);
+  printf("%s\n", str);
+  return 0;
+}

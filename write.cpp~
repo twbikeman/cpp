@@ -1,0 +1,18 @@
+#include <fstream>
+#include <string>
+#include <iostream>
+
+struct Test {
+  int i = 10;
+  float j = 3.3;
+};
+
+
+int main() {
+  struct Test test;
+  std::fstream fs("mytest.txt", std::ios::trunc  | std::ios::binary);
+  fs.write((char *)&test, sizeof(struct Test));
+  fs.close();
+  std::cout << test.i << std::endl;
+  return 0;
+}
